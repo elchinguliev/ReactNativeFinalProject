@@ -1,0 +1,54 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Orange ",
+        "category": "Fruit",
+        "price": 1.2,
+        "description": "Good for vitamin C and healthy",
+        "image": "https://cdn.pixabay.com/photo/2019/10/13/20/35/orange-4547207_640.png"
+      },
+      {
+        "id": 2,
+        "name": "Badamli",
+        "category": "Liquid",
+        "price": 0.5,
+        "description": "Drink tomorrow ",
+        "image": "https://ipeksu.az/upload/iblock/b86/b866f7c5428b66d7ff17aa6b4dc44649.png"
+      },
+      {
+        "id": 3,
+        "name": "Yogurt",
+        "category": "Milk Products",
+        "price": 2.5,
+        "description": "Made by AzerSud",
+        "image": "https://new.neptun.az/media/images/product/65b101f5bba3cc89d3097393/thumb.jpg"
+      },
+      {
+        "id": 4,
+        "name": "WaterMelon",
+        "category": "Fruit",
+        "price": 4.7,
+        "description": "Eat with cheese",
+        "image": "https://snaped.fns.usda.gov/sites/default/files/styles/crop_ratio_7_5/public/seasonal-produce/2018-05/watermelon.jpg?itok=WlQcb2Uh"
+      },
+      {
+        "id": 5,
+        "name": "Natakhtari",
+        "category": "Liquid",
+        "price": 1.7,
+        "description": "Made in Georgia",
+        "image": "https://www.bonafresco.com/wp-content/uploads/2023/10/image_1024.png"
+      },
+      {
+        "id": 6,
+        "name": "Milk",
+        "category": "Milk Products",
+        "price": 0.9,
+        "description": "Very Healthy",
+        "image": "https://sapinsdairy.com/wp-content/uploads/2021/12/milk-bottle.png"
+      }
+      
+    ]
+  }
+  
